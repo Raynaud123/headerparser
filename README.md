@@ -1,3 +1,3 @@
-# Request Header Parser Microservice
+Example project from the Back End Development and APIs course on FreeCodeCamp(https://www.freecodecamp.org/learn/back-end-development-and-apis). Built with express.
 
-This is the boilerplate for the Request Header Parser Microservice project. Instructions for building your project can be found at https://www.freecodecamp.org/learn/apis-and-microservices/apis-and-microservices-projects/request-header-parser-microservice
+You can run the project with the command: "node app.js"
